@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-plan changed going to village.
-New changes done by main branch.
-=======
-plan changed going to village.
->>>>>>> edit-plan
